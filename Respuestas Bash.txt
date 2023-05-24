@@ -1,3 +1,7 @@
 1) ls
 
 2) pwd
+
+3) man
+
+4) ls > salida.txt
